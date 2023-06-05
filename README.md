@@ -17,6 +17,7 @@ For the data extraction, its gonna be needed to upload images corresponding to e
 The structure to be followed is the one followed in this repository:
 
 -Reduced_Dataset
+
     +train
         +angry
         +disgust
