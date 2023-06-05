@@ -16,10 +16,10 @@ The code consists on five phases:
 For the data extraction, its gonna be needed to upload images corresponding to each category mentioned, and its important to differentiate between train images and test images.
 The structure to be followed is the one followed in this repository:
 
--Reduced_Dataset
 
-    train
-        angry
+Reduced_Dataset
+    +train
+        +angry
         +disgust
         +fear
         +happy
