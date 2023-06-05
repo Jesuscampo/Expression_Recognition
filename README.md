@@ -13,7 +13,8 @@ The code consists on five phases:
 5. Testing with New Images
 
 
-For the data extraction, its gonna be needed to upload images corresponding to each category mentioned, and its important to differentiate between train images and test images.
+For the data extraction, its gonna be needed to upload images corresponding to each category mentioned, and its important to differentiate between train images and test images. The images are going to be classified
+between the seven classes.
 The structure to be followed is the one followed in this repository:
 
 
