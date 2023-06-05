@@ -37,3 +37,5 @@ The structure to be followed is the one followed in this repository:
    
 In each directory, you must introduced the images you want to train or test the model. In my case, i've used the dataset from:    
 https://www.kaggle.com/datasets/sulthankhan/facial-expression-recognition
+
+The model created is based on an existing pre-trained model, which can be whatever you choose, i.e. VGG16, InceptionV3, MobileNet...
