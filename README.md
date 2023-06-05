@@ -18,8 +18,8 @@ The structure to be followed is the one followed in this repository:
 
 -Reduced_Dataset
 
-    +train
-        +angry
+    train
+        angry
         +disgust
         +fear
         +happy
